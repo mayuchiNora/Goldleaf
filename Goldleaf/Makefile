@@ -48,8 +48,8 @@ VER_MAJOR	:= 0
 VER_MINOR	:= 8
 VER_MICRO	:= 0
 
-APP_TITLE   := Goldleaf
-APP_AUTHOR  := XorTroll
+APP_TITLE   := Goldleaf-JP
+APP_AUTHOR  := XorTroll ver.JP mayuchi&yyoossk
 
 # "-dev" prefix is manually appended when a new version has started development.
 APP_VERSION := $(VER_MAJOR).$(VER_MINOR).$(VER_MICRO)# -dev

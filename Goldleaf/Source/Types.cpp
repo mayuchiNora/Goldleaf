@@ -29,13 +29,13 @@ extern bool gupdated;
 
 namespace consts
 {
-    std::string Root = "switch/Goldleaf";
-    std::string Log = Root + "/Goldleaf.log";
+    std::string Root = "switch/Goldleaf-JP";
+    std::string Log = Root + "/Goldleaf-JP.log";
 }
 
 std::string LanguageToString(Language lang)
 {
-    std::string langstr = "en"; // Default
+    std::string langstr = "ja"; // Default
     switch(lang)
     {
         case Language::English:
